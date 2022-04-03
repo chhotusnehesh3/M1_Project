@@ -2,14 +2,9 @@
 
 ## High Level Design 
 ## * Architecture Design
-![Architecture](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/2_Architecture/highlevel.png)
+![highlevel](https://user-images.githubusercontent.com/101246546/161426458-c61e76a0-679c-4bc4-986c-6e3351f8101b.png)
 
-## * Usecase Diagram
-![UsecaseDiagram](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/2_Architecture/Usecasehdl.png)
 
 ## Low Level Design 
 ## * Level0
-![Level0](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/2_Architecture/Level0.png)
-
-## * Level1
-![Level1](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/2_Architecture/Level1.png)
+![Level0](https://user-images.githubusercontent.com/101246546/161426426-61a5f5e9-4742-4cc2-a7bd-aeecb1d54ccd.png)
